@@ -1,5 +1,10 @@
 # HardWikiPlaceHolder
-Deterministic, stake-baked facts for a probabilistic AI era
+Deterministic, stake-backed facts for a probabilistic AI era
+
+Whitepaper Abstract
+Hard Wiki is a permissionless, cryptographically‑verified ledger of scientifically testable facts, proofs, and experimental results.
+By anchoring machine‑checkable artifacts on‑chain, backed by: human staking, a native HARD token, and Sybil‑resistant identity, 
+we create a permanent knowledge substrate that large‑language models, researchers, and institutions can trust without re‑fact‑checking each inference.
 
 ## 🔍 What is Hard Wiki?
 Hard Wiki is an Ethereum roll-up + content-addressed storage layer where:
